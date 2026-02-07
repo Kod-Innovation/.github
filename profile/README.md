@@ -1,6 +1,6 @@
-# Kod Innovation
+# Kod XRX
 
-**Kod Innovation** is a technology company focused on building **scalable, domain-agnostic software platforms** that help businesses run their operations efficiently.
+**Kod XRX** is a technology company focused on building **scalable, domain-agnostic software platforms** that help businesses run their operations efficiently.
 
 We design and develop **modular, reusable, and extensible software solutions** that can adapt across multiple industries such as restaurants, salons, healthcare, retail, and service-based businesses.
 
